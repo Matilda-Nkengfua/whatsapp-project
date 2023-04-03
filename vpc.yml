@@ -1,0 +1,17 @@
+#create vpc
+#create subnets and route tables
+#create internet gateway and attach to vpc
+#create security group 
+AWSTemplateFormatVersion: 2010-09-09
+Description: VPC creation with CF 
+Metadata: 
+
+Parameters: 
+
+Mappings: 
+
+Conditions: 
+
+Resources: 
+
+Outputs:
